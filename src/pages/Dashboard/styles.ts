@@ -61,6 +61,10 @@ export const TableContainer = styled.section`
       text-align: left;
       font-size: 16px;
       line-height: 24px;
+
+      svg {
+        margin-left: 4px;
+      }
     }
 
     td {
